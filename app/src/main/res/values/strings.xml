@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XposedHookDemo</string>
+
+    <string-array name="scope" >
+        <item>com.leaf.and.aleaf</item>
+    </string-array>
+
+</resources>
